@@ -1,0 +1,7 @@
+D:\Projects\mahdi boardgame\cards analysis\cards analysis\obj\Debug\cards analysis.csprojAssemblyReference.cache
+D:\Projects\mahdi boardgame\cards analysis\cards analysis\obj\Debug\cards analysis.csproj.CoreCompileInputs.cache
+D:\Projects\mahdi boardgame\cards analysis\cards analysis\bin\Debug\cards analysis.exe.config
+D:\Projects\mahdi boardgame\cards analysis\cards analysis\bin\Debug\cards analysis.exe
+D:\Projects\mahdi boardgame\cards analysis\cards analysis\bin\Debug\cards analysis.pdb
+D:\Projects\mahdi boardgame\cards analysis\cards analysis\obj\Debug\cards analysis.exe
+D:\Projects\mahdi boardgame\cards analysis\cards analysis\obj\Debug\cards analysis.pdb
